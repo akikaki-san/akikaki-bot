@@ -1441,5 +1441,5 @@ if(!command){
 
 });
 
-client.login("ODI1Njc2MjkzNDY2NjE5OTA1.YGBY-A.Aqk1Larpqg9EyBa3ySTDnNLgtd4");
+client.login(YOURETOKEN);
 
