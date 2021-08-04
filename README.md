@@ -1,8 +1,8 @@
 # akikaki-bot [Version 4.0.5] 
 Voice and messages.
 ## まずこれは何？
-秋柿ボットのindex.js とかです。\n
-node_modulesとかは入ってません。\n 自分で入れてね。
+秋柿ボットのindex.js とかです。
+node_modulesとかは入ってません。 自分で入れてね。
 ## 仕様
 - discord.js v12.5.3
 - node.js
@@ -12,7 +12,7 @@ node_modulesとかは入ってません。\n 自分で入れてね。
 - fs
 - pc
 - date-utils
-> mainfiles
+> mainfile
 - index.js
 ## Prefix関連
 Prefixを保管しているファイルは
@@ -35,6 +35,9 @@ npm i ytdl-core
 npm i youtube-search
 npm i pc
 npm i date-utils
+npm i yt-search //add
+npm i node-opus //add
+npm i ffmpeg //add
 ```
 などを実行してみてください。
 これで何かモジュールが足りなかったりしたらそれを追加でインストールしてみてください。
@@ -49,7 +52,7 @@ node index.js
 ```
 起動に成功したよ！
  ||  情報　||
- |ログイン :  Login Bot Account|
+ |ログイン : Login Bot Account|
  |参加サーバー : NaN|
  |ping : -1|
  |Date : Error|
